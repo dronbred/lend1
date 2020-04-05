@@ -1,0 +1,9 @@
+# игнорируем каталог tmp
+/tmp
+# игнорируем файлы с суффиксом _old; _backup;
+*.*[_old]
+*.*[_backup]
+# игнорируем системные файлы (Thumbs.db и .DS_Store)
+
+Thumbs.db
+.DS_Store
